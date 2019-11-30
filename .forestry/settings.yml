@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
+- type: directory
+  path: post
+  label: Páginas
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - pagina
 - type: document
   path: README.md
   label: Inicio
