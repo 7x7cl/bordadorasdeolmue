@@ -1,0 +1,19 @@
+{
+  "name": "bordadorasdeolmue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanhi2001/bordadorasdeolmue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanhi2001/bordadorasdeolmue/issues"
+  },
+  "homepage": "https://github.com/estebanhi2001/bordadorasdeolmue#readme"
+}
