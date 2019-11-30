@@ -1,4 +1,9 @@
 ---
 label: Inicio
 hide_body: false
-fields: []
+fields:
+- name: imagen_de_portada
+  type: file
+  config:
+    maxSize: 250
+  label: Imagen de portada
